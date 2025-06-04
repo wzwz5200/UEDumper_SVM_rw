@@ -1,5 +1,16 @@
 <h1 align="left">UEDumper - Unreal Engine Dumper<br /><img src="UEDumper.png?raw=true" alt="Logo" height="250px" align="right" /></h1>
 
+## 🔧 Driver Requirement
+
+This project relies on the [memhv driver](https://github.com/SamuelTulach/memhv) for  memory access.
+
+Please make sure the memhv driver is properly installed; otherwise, memory read/write functionality will not work.
+
+only Windows11
+🔗 **memhv Driver Repository:**  
+[memhv](https://github.com/SamuelTulach/memhv)
+
+
 <p align="left">
   <img src="https://img.shields.io/github/license/Spuckwaffel/UEDumper" alt="License">
   <img src="https://img.shields.io/github/stars/Spuckwaffel/UEDumper" alt="Stars">
